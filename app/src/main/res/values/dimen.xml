@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="data_item_height">150dp</dimen>
+    <dimen name="data_item_corner_radius">4dp</dimen>
+
+    <dimen name="description_margin_right">78dp</dimen>
+    <dimen name="thumbnail_width">75dp</dimen>
+    <dimen name="thumbnail_height">40dp</dimen>
+
+</resources>
